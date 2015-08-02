@@ -1,0 +1,15 @@
+-*- mode: compilation; default-directory: "~/Projects/rubystuff/examples/rspec_eq_test/" -*-
+Compilation started at Sun Aug  2 12:15:25
+
+rspec
+
+RspecEqTest
+[32m  has a version number[0m
+[32m  does something useful[0m
+[32m  compares two method invocation in eq()[0m
+
+Finished in 0.00149 seconds (files took 0.10722 seconds to load)
+[32m3 examples, 0 failures[0m
+
+
+Compilation finished at Sun Aug  2 12:15:26
